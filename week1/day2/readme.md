@@ -2,7 +2,6 @@
 # MySQL Employee Database Queries – Day 2
 
 ## Project Description
-
 This project contains SQL queries performed on an Employee database for practicing MySQL concepts.  
 The main objective of this task is to improve understanding of data retrieval, filtering, grouping, and searching techniques in SQL.
 
