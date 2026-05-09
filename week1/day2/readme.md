@@ -57,8 +57,8 @@ Used to sort and display top records.
 
 This practice helped in understanding:
 
--SQL query execution
--Data filtering techniques
--Aggregate functions
--Pattern matching
--Data grouping and analysis
+- SQL query execution
+- Data filtering techniques
+- Aggregate functions
+- Pattern matching
+- Data grouping and analysis
